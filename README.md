@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Bhargava</h1>
 # 💫 About Me:
-🔭 I’m currently working as Flutter Developer Intern<br>🌱 I’m currently learning Flutter UI Framework and Backend Technologies<br>
+🔭 I’m a full-stack Flutter developer, specializing in UI development and backend technologies.<Br>🌱 Currently, I'm deepening my expertise in the Flutter UI Framework and expanding my knowledge of backend technologies.<br>
+
 
 
 ## 🌐 Socials:
